@@ -4,3 +4,17 @@ body{
   justify-content: center;
   align-items: center;
 }
+h1{font-weight: bolder;
+  font-size: 50px;
+letter-spacing: normal;
+margin-bottom: 20px;
+}
+
+h5{font-weight: lighter;
+  font-style: italic;
+  align-content: space-between;
+margin-bottom: 0px;
+}
+.addOption{
+  margin-top: 10px;
+}
